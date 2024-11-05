@@ -1,8 +1,3 @@
-/***
-MAZE SOLVER
-DYLAN JAYABAHU
-***/
-
 //IMPORTS
 import g4p_controls.*;
 
